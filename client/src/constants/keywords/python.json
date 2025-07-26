@@ -1,0 +1,40 @@
+{
+  "keywords": [
+    "and", "as", "assert", "break", "class", "continue", "def", "del", "elif", "else", 
+    "except", "exec", "finally", "for", "from", "global", "if", "import", "in", "is", 
+    "lambda", "not", "or", "pass", "print", "raise", "return", "try", "while", "with", 
+    "yield", "True", "False", "None", "async", "await", "nonlocal"
+  ],
+  "builtin_functions": [
+    "len", "str", "int", "float", "list", "dict", "tuple", "set", "range", "open", 
+    "input", "format", "join", "split", "strip", "replace", "find", "index", "append", 
+    "extend", "remove", "pop", "insert", "sort", "reverse", "count", "keys", "values", 
+    "items", "get", "update", "clear", "copy", "startswith", "endswith", "upper", 
+    "lower", "capitalize", "title", "isdigit", "isalpha", "isalnum", "isinstance", 
+    "hasattr", "getattr", "setattr", "delattr", "abs", "max", "min", "sum", "all", 
+    "any", "zip", "enumerate", "map", "filter", "sorted", "reversed", "type", "dir",
+    "help", "id", "hash", "repr", "eval", "exec", "compile", "globals", "locals",
+    "vars", "super", "property", "staticmethod", "classmethod", "frozenset", "bytearray",
+    "bytes", "memoryview", "slice", "object", "BaseException", "Exception", "StopIteration",
+    "GeneratorExit", "SystemExit", "KeyboardInterrupt", "ImportError", "ModuleNotFoundError",
+    "OSError", "EnvironmentError", "IOError", "WindowsError", "VMSError", "OSError",
+    "FileNotFoundError", "PermissionError", "ProcessLookupError", "TimeoutError",
+    "ReferenceError", "RuntimeError", "NotImplementedError", "RecursionError",
+    "SyntaxError", "IndentationError", "TabError", "SystemError", "TypeError",
+    "ValueError", "UnicodeError", "UnicodeDecodeError", "UnicodeEncodeError",
+    "UnicodeTranslateError", "Warning", "UserWarning", "DeprecationWarning",
+    "PendingDeprecationWarning", "SyntaxWarning", "RuntimeWarning", "FutureWarning",
+    "ImportWarning", "UnicodeWarning", "BytesWarning", "ResourceWarning"
+  ],
+  "common_libraries": [
+    "os", "sys", "math", "random", "datetime", "time", "json", "pickle", "sqlite3",
+    "urllib", "requests", "re", "collections", "itertools", "functools", "operator",
+    "pathlib", "shutil", "subprocess", "threading", "multiprocessing", "asyncio",
+    "logging", "argparse", "configparser", "csv", "xml", "html", "email", "smtplib",
+    "socket", "ssl", "hashlib", "hmac", "base64", "zlib", "gzip", "bz2", "lzma",
+    "tarfile", "zipfile", "tempfile", "glob", "fnmatch", "linecache", "weakref",
+    "abc", "enum", "dataclasses", "typing", "contextlib", "copy", "pprint", "dis",
+    "inspect", "ast", "symtable", "code", "codeop", "pydoc", "doctest", "unittest",
+    "test", "warnings", "traceback", "gc", "sysconfig", "platform", "site", "builtins"
+  ]
+} 

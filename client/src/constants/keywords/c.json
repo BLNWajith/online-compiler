@@ -1,0 +1,56 @@
+{
+  "keywords": [
+    "auto", "break", "case", "char", "const", "continue", "default", "do", "double", 
+    "else", "enum", "extern", "float", "for", "goto", "if", "int", "long", "register", 
+    "return", "short", "signed", "sizeof", "static", "struct", "switch", "typedef", 
+    "union", "unsigned", "void", "volatile", "while", "inline", "restrict", "_Bool",
+    "_Complex", "_Imaginary"
+  ],
+  "builtin_functions": [
+    "printf", "scanf", "fprintf", "fscanf", "sprintf", "sscanf", "fgets", "fputs", 
+    "puts", "getchar", "putchar", "fgetc", "fputc", "malloc", "calloc", "realloc", 
+    "free", "strlen", "strcpy", "strcat", "strcmp", "strstr", "strchr", "strrchr", 
+    "strtok", "atoi", "atof", "itoa", "abs", "fabs", "pow", "sqrt", "sin", "cos", 
+    "tan", "log", "exp", "ceil", "floor", "rand", "srand", "exit", "system", 
+    "fopen", "fclose", "fread", "fwrite", "fseek", "ftell", "rewind", "remove", 
+    "rename", "tmpfile", "tmpnam", "setvbuf", "setbuf", "fflush", "fgetpos", "fsetpos",
+    "clearerr", "feof", "ferror", "perror", "strncpy", "strncat", "strncmp", "strnlen",
+    "strpbrk", "strspn", "strcspn", "strerror", "memcpy", "memmove", "memcmp", "memchr",
+    "memset", "memcpy", "memmove", "memcmp", "memchr", "memset", "qsort", "bsearch",
+    "div", "ldiv", "lldiv", "mblen", "mbtowc", "wctomb", "mbstowcs", "wcstombs",
+    "clock", "time", "difftime", "mktime", "asctime", "ctime", "gmtime", "localtime",
+    "strftime", "isalnum", "isalpha", "iscntrl", "isdigit", "isgraph", "islower",
+    "isprint", "ispunct", "isspace", "isupper", "isxdigit", "tolower", "toupper",
+    "setlocale", "localeconv", "signal", "raise", "longjmp", "setjmp", "va_start",
+    "va_arg", "va_end", "va_copy", "offsetof", "setjmp", "longjmp", "signal", "raise"
+  ],
+  "macros_and_constants": [
+    "NULL", "TRUE", "FALSE", "EOF", "stdin", "stdout", "stderr", "BUFSIZ", "FILENAME_MAX",
+    "FOPEN_MAX", "L_tmpnam", "TMP_MAX", "SEEK_SET", "SEEK_CUR", "SEEK_END", "EXIT_SUCCESS",
+    "EXIT_FAILURE", "RAND_MAX", "MB_CUR_MAX", "CLOCKS_PER_SEC", "CHAR_BIT", "CHAR_MAX",
+    "CHAR_MIN", "SCHAR_MAX", "SCHAR_MIN", "UCHAR_MAX", "SHRT_MAX", "SHRT_MIN", "USHRT_MAX",
+    "INT_MAX", "INT_MIN", "UINT_MAX", "LONG_MAX", "LONG_MIN", "ULONG_MAX", "LLONG_MAX",
+    "LLONG_MIN", "ULLONG_MAX", "FLT_MAX", "FLT_MIN", "FLT_EPSILON", "FLT_DIG", "FLT_MANT_DIG",
+    "FLT_MAX_EXP", "FLT_MIN_EXP", "FLT_RADIX", "FLT_ROUNDS", "DBL_MAX", "DBL_MIN", "DBL_EPSILON",
+    "DBL_DIG", "DBL_MANT_DIG", "DBL_MAX_EXP", "DBL_MIN_EXP", "LDBL_MAX", "LDBL_MIN",
+    "LDBL_EPSILON", "LDBL_DIG", "LDBL_MANT_DIG", "LDBL_MAX_EXP", "LDBL_MIN_EXP",
+    "HUGE_VAL", "HUGE_VALF", "HUGE_VALL", "INFINITY", "NAN", "FP_INFINITE", "FP_NAN",
+    "FP_NORMAL", "FP_SUBNORMAL", "FP_ZERO", "FP_FAST_FMA", "FP_FAST_FMAF", "FP_FAST_FMAL",
+    "FP_ILOGB0", "FP_ILOGBNAN", "MATH_ERRNO", "MATH_ERREXCEPT", "math_errhandling",
+    "EDOM", "ERANGE", "EILSEQ", "errno", "LC_ALL", "LC_COLLATE", "LC_CTYPE", "LC_MONETARY",
+    "LC_NUMERIC", "LC_TIME", "SIG_DFL", "SIG_ERR", "SIG_IGN", "SIGABRT", "SIGFPE", "SIGILL",
+    "SIGINT", "SIGSEGV", "SIGTERM", "SIG_ABRT", "SIG_FPE", "SIG_ILL", "SIG_INT", "SIG_SEGV",
+    "SIG_TERM", "va_list", "va_start", "va_arg", "va_end", "va_copy", "offsetof", "size_t",
+    "ptrdiff_t", "wchar_t", "wint_t", "FILE", "fpos_t", "clock_t", "time_t", "tm", "div_t",
+    "ldiv_t", "lldiv_t", "mbstate_t", "jmp_buf", "sig_atomic_t", "va_list"
+  ],
+  "common_headers": [
+    "stdio", "stdlib", "string", "math", "time", "ctype", "limits", "float", "errno",
+    "setjmp", "signal", "stdarg", "locale", "assert", "stddef", "stdint", "inttypes",
+    "stdbool", "complex", "tgmath", "fenv", "iso646", "wchar", "wctype", "uchar",
+    "threads", "stdatomic", "stdnoreturn", "stdalign", "stdarg", "stdbool", "stddef",
+    "stdint", "stdio", "stdlib", "string", "time", "wchar", "wctype", "complex",
+    "fenv", "inttypes", "stdarg", "stdbool", "stddef", "stdint", "stdio", "stdlib",
+    "string", "tgmath", "time", "wchar", "wctype", "stdatomic", "stdnoreturn", "stdalign"
+  ]
+} 
